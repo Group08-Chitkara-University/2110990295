@@ -16,8 +16,7 @@ int main()
 			}
 			else
 			{
-			
-				cout<<n;
+		          cout<<n;
 			}
 
 		}
