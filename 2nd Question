@@ -18,7 +18,7 @@ endl;
  --num; // decrease by 1 (pre-decrement)
 cout <<" After pre decrement by 1 the number is : " << num <<  endl;
  num = num - 1; // num is now decreased by 1.
- cout <<" After decreasing by 1 the number is : " << num << endl;
+ cout <<" After increasing by 1 the number is : " << num << endl;
  cout << endl;
  return 0;
 }
