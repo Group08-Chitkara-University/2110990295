@@ -12,7 +12,7 @@ int main()
 			if(n%2==0)
 			{
 				cout<<a-b;
-				b=b+1;
+				b=b+2;
 			}
 			else
 			{
