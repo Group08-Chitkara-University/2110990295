@@ -11,7 +11,7 @@ int main()
 			cout<<a+3b;
 
 		}
-
+        //loop c++
 		cout<<endl;
 	}
 	return 0;
