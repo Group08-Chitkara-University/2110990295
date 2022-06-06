@@ -14,5 +14,6 @@ int main()
    cout << " The sizeof(double) is :        " << sizeof(double) << " bytes \n";
    cout << " The sizeof(long double) is :   " << sizeof(long double) << " bytes \n";
    cout << " The sizeof(bool) is :          " << sizeof(bool) << " bytes \n\n";
+   cout << " I am Aryan";	
    return 0;
 }
