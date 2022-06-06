@@ -11,7 +11,7 @@ int main()
 		{
 			if(n%2==0)
 			{
-				cout<<a+b;
+				cout<<a-b;
 				b=b+1;
 			}
 			else
