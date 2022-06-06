@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
  int num =67;
- cout << "\n\n Display the operation of pre and post increment  :\n";
+ cout << "\n\n Display the operation of pre and post decrment   :\n";
 cout << "-------------------------------------------------------------------- \n";
  cout <<" The number is : " << num << endl;
  num++; // increase by 1 (post-increment)
