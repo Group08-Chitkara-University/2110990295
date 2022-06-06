@@ -9,7 +9,7 @@ cout << "-------------------------------------------------------------------- \n
  num++; // increase by 1 (post-increment)
  cout <<" After post increment by 1 the number is : " << num <<
 endl;
- ++num; // increase by 1 (pre-increment)
+ ++num; // increase by 1 (pre-decrement)
  cout <<" After pre increment by 1 the number is : " << num << endl;
  num = num + 1; // num is now increased by 1.
  cout <<" After increasing by 1 the number is : " << num << endl; // 79
